@@ -10,7 +10,7 @@ Implementation of some algorithms and data structures.
 - network_flow
 - linear_prog : aka LP
 - approximation
-- local_search
+- heuristics : differential evolution, genetic, particle swarm, simulated annealing, ant colony, fish swarm, immune optimization
 - primal_dual
 - randomized
 - sorting
@@ -23,5 +23,5 @@ Implementation of some algorithms and data structures.
 
 
 ## About
-[ZenMoore@BUAA](github.com/ZenMoore) is a senior, advised by Prof. Zhoujun Li.
+[ZenMoore@BUAA](https://github.com/ZenMoore) is a senior, advised by Prof. Zhoujun Li.
 
