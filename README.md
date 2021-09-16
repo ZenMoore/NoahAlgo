@@ -23,5 +23,5 @@ Implementation of some algorithms and data structures.
 
 
 ## About
-[ZenMoore@BUAA](https://github.com/ZenMoore) is a senior, advised by Prof. Zhoujun Li.
+[ZenMoore@BUAA](https://github.com/ZenMoore) is a senior.
 
